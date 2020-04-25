@@ -4,7 +4,8 @@ end
 
 badge_maker("Arel")
 
-atendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   
-def badge_creator(atendees)
-  return 
+def badge_creator(attendees)
+  return attendees
+end  
