@@ -6,6 +6,6 @@ badge_maker("Arel")
 
 attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   
-def badge_creator(attendees)
+def batch_badge_creator(attendees)
   return attendees
 end  
