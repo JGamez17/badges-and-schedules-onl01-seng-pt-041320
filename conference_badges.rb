@@ -4,3 +4,5 @@ end
 
 badge_maker("Arel")
   
+def badge_creator(atendees)
+  return 
