@@ -10,4 +10,4 @@ end
 
 def assign_rooms(array)
   rooms = []
-  rooms.each { |number,index| 
+  rooms.each_with_index { |number,index| 
