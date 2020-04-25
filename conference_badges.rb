@@ -3,6 +3,8 @@ def badge_maker(name)
 end  
 
 badge_maker("Arel")
+
+atendees = []
   
 def badge_creator(atendees)
   return 
